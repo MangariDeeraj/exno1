@@ -121,4 +121,4 @@ STEP 6: Use zscore of to remove outliers
 ## ![image](https://github.com/user-attachments/assets/62c40fd4-3e1f-4f80-8e17-3427f73c04d6)
       
 # Result
-     Thus the given program executed successfully.
+## Thus the given program executed successfully.
